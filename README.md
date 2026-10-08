@@ -1,2 +1,1 @@
-# skan-badri.github.io
-Personal e-portfolio
+# Personal e-portfolio
