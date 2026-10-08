@@ -1,0 +1,34 @@
+---
+---
+
+@import "jekyll-theme-hacker";
+
+/* Define your custom color variables */
+$cyber-red: #ff3333;
+$cyber-red-hover: #ff6666;
+$dark-bg: #0d0d0d;
+$code-bg: #1a0505;
+
+/* Override background colors */
+body {
+  background-color: $dark-bg;
+}
+
+/* Override links and headers to custom red */
+a {
+  color: $cyber-red;
+}
+
+a:hover {
+  color: $cyber-red-hover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $cyber-red;
+}
+
+/* Custom code block background */
+pre, code {
+  background-color: $code-bg;
+  border-color: #331010;
+}
