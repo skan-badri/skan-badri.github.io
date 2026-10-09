@@ -8,7 +8,6 @@ $cyber-red: #ff3333;
 $cyber-red-hover: #ff6666;
 $dark-bg: #0d0d0d;
 $code-bg: #1a0505;
-$title: #ff3333;
 /* Override background colors */
 body {
   background-color: $dark-bg;
@@ -18,17 +17,20 @@ body {
 }
 /* Override links and headers to custom red */
 a {
-  color: $cyber-red;
+  color: #fd857d;
 }
 
 a:hover {
-  color: $cyber-red-hover;
+  color: #ff4b72;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: $cyber-red;
+h1, h3, h4, h5, h6 {
+  color: #b5e853;
 }
 
+h2 {
+  color: #ff7b72;
+}
 /* Custom code block background */
 pre, code {
   background-color: $code-bg;
