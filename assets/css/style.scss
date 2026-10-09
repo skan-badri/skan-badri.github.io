@@ -13,7 +13,9 @@ $title: #ff3333;
 body {
   background-color: $dark-bg;
 }
-
+#a-title {
+  color:ff3333;
+}
 /* Override links and headers to custom red */
 a {
   color: $cyber-red;
