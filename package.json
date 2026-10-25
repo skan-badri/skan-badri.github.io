@@ -1,0 +1,21 @@
+{
+  "name": "skan-badri.github.io",
+  "version": "1.0.0",
+  "description": "Hello, I am Skander Badri and this is my homepage. You can check my e-portfolio in english [here](en/) and in french [here](fr/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skan-badri/skan-badri.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/skan-badri/skan-badri.github.io/issues"
+  },
+  "homepage": "https://github.com/skan-badri/skan-badri.github.io#readme"
+}
