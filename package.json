@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/skan-badri/skan-badri.github.io/issues"
   },
-  "homepage": "https://github.com/skan-badri/skan-badri.github.io#readme"
+  "homepage": "https://github.com/skan-badri/skan-badri.github.io#readme",
+   "devDependencies": {
+    "vite": "^5.0.0"
+  }
 }
