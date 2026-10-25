@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/skan-badri/skan-badri.github.io#readme",
   "devDependencies": {
-    "vite": "^11.20.0"
+    "vite": "^5.0.0"
   }
 }
