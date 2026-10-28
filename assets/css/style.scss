@@ -36,3 +36,16 @@ pre, code {
   background-color: $code-bg;
   border-color: #331010;
 }
+.profile-pic {
+  float: right;
+  width: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  aspect-ratio: 1/1;
+  margin-left: 500px;
+}
+.projects-title {
+  color: #b5e853;
+  font-style: italic;
+  text-indent: 20px;
+}
