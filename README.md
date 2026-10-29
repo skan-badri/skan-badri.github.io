@@ -63,7 +63,7 @@ Pronto :)
 Awaiting permission ...
 ```
 
-## " Cordées de la reussite " project
+## " Cordées de la réussite " project
 
 
 I am participating in the project "Cordées de la reussite" and my role is to give first-years in high school carreer/academic counseling and to give them the push they need to feel more confident public speaking !
@@ -79,10 +79,7 @@ I like to go to the gym to build muscle and discipline. My body lives for sore m
 
 ## CV / Resume
 
-```
-In progress ...
-
-```
+<a href="/assets/docs/Mr_Skander_Badri_Resume_2026-10-29.pdf" download class="download-btn">Download Resume</a>
 
 ## Contact
 
