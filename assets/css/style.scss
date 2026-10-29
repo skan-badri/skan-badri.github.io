@@ -27,9 +27,17 @@ a:hover {
 h1, h3, h4, h5, h6 {
   color: #b5e853;
 }
+.btn {
+
+  &:hover {
+    color: #d4e853;
+  }
+
+}
 
 h2 {
   color: #ff7b72;
+  text-indent: 20px;
 }
 /* Custom code block background */
 pre, code {
@@ -47,7 +55,7 @@ pre, code {
 .projects-title {
   color: #b5e853;
   font-style: italic;
-  text-indent: 20px;
+  text-indent: 40px;
 }
 pre {
     background: rgba(0, 0, 0, 0.9);
@@ -87,4 +95,18 @@ code {
   align-items: center;
   height: 100vh; /* Full viewport height */
   
+}
+.lang-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgba(0,0,0,0.9); // Choose your preferred color
+  color: #d4e853; // Choose your preferred text color
+  text-decoration: none;
+  border-radius: 50%;
+  font-weight: bold;
+  
+  &:hover {
+    background-color: #d4e853; // Change to a different color on hover
+    color: rgba(0,0,0,0.9); // Change text color
+  }
 }
