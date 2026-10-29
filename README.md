@@ -67,13 +67,16 @@ Pronto :)
 
 I am participating in the project "Cordées de la reussite" and my role is to give first-years in high school carreer/academic counseling and to give them the push they need to feel more confident public speaking !
 
+## Le procès de King Kong
+
+I attended the play "Le procès de King Kong" displaying 3 situations of sexist and sexual violence (VSS) at the end of wich we had to pass judgement and debate on who was the most at fault in said situation.
 # Sport & other activities
 
 ## Sports
 
 I like to go to the gym to build muscle and discipline. My body lives for sore muscles !
 
-<!-- I really need to add more :\\ -->
+<!-- I really need to add more activities :\\ -->
 # Career Development
 
 ## CV / Resume
