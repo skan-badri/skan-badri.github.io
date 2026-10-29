@@ -86,7 +86,7 @@ I like to go to the gym to build muscle and discipline. My body lives for sore m
 
 Join me on LinkedIn !
 
-<a href="https://www.linkedin.com/in/skander-badri-536462222/" class="contact-btn">LinkedIn (EN)</a>
+<a href="https://www.linkedin.com/in/skander-badri-536462222/?locale=en-US" class="contact-btn">LinkedIn (EN)</a>
 <a href="https://www.linkedin.com/in/skander-badri-536462222/?locale=fr-FR" class="contact-btn">LinkedIn (FR)</a>
 
 Well how about my e-mail ?
