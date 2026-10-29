@@ -31,16 +31,15 @@ I placed in the top 3 among first-years at ENSEEIHT in the recent CTF challenge 
 ```
 In progress :)
 ```
+
 ## Arabic
 <div dir="rtl">
 اللغة العربية لغتي الأم. اسمي بالعربية يكتب كالاتي : اسكندر بادري.
 </div>
+
 ## English
 
-```
-Nothing for the moment :\
-
-```
+Well, this entire e-portfolio is in english so...
 
 ## 我说汉语 ！
 
