@@ -59,7 +59,7 @@ Pronto :)
 
 ## For Mother Nature ...
 <figure>
-<img src="assets/images/Fresque-du-climat.png" alt="Fresque du climat">
+<img src="assets/images/Fresque-du-climat.jpg" alt="Fresque du climat">
 <figcaption>Fresque du climat : Le paradoxe</figcaption>
 </figure>
 ## " Cordées de la réussite " project
