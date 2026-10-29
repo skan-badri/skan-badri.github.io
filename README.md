@@ -58,9 +58,10 @@ Pronto :)
 # Sustainability & Civic Engagement
 
 ## For Mother Nature ...
-
-<img src="assets/images/">
-
+<figure>
+<img src="assets/images/Fresque-du-climat.png" alt="Fresque du climat">
+<figcaption>Fresque du climat : Le paradoxe</figcaption>
+</figure>
 ## " Cordées de la réussite " project
 
 
