@@ -59,9 +59,7 @@ Pronto :)
 
 ## For Mother Nature ...
 
-```
-Awaiting permission ...
-```
+<img src="assets/images/">
 
 ## " Cordées de la réussite " project
 
