@@ -1,6 +1,6 @@
 
 
-My name is Skander Badri and this is my e-portfolio. I am a computer science student at ENSEEIHT in my first year (Bac+3) and I am looking
+My name is Skander Badri and this is my e-portfolio. I am an engineering student at ENSEEIHT in my first year (Bac+3) and I am looking
 forward to learning new things, widening my horizons and discover the world of Cybersecurity !
 
 
