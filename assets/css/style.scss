@@ -70,14 +70,15 @@ code {
 .download-btn {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #0366d6; // Choose your preferred color
-  color: #ffffff;
+  background-color: rgba(0,0,0,0.9); // Choose your preferred color
+  color: #d4e853; // Choose your preferred text color
   text-decoration: none;
   border-radius: 6px;
   font-weight: bold;
   
   &:hover {
-    background-color: #0056b3;
+    background-color: #d4e853; // Change to a different color on hover
+    color: rgba(0,0,0,0.9); // Change text color
   }
 }
 .climat {

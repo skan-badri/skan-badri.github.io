@@ -65,7 +65,7 @@ Pronto :)
 ## " Cordées de la réussite " project
 
 
-I am participating in the project "Cordées de la reussite" and my role is to give first-years in high school carreer/academic counseling and to give them the push they need to feel more confident public speaking !
+I am participating in the project "Cordées de la reussite" and my role is to give first-years in high school carreer/academic counseling and to give them the confidence boost they need in public speaking !
 
 ## Le procès de King Kong
 
@@ -81,13 +81,17 @@ I like to go to the gym to build muscle and discipline. My body lives for sore m
 
 ## CV / Resume
 
-<a href="/assets/docs/Mr_Skander_Badri_Resume_2026-10-29.pdf" download class="download-btn">Download Resume</a>
+<a href="/assets/docs/Mr_Skander_Badri_Resume_2026-10-29.pdf" download class="contact-btn">Download Resume</a>
 
 ## Contact
 
-```
-In progress ...
-```
+Join me on LinkedIn !
+
+<a href="https://www.linkedin.com/in/skander-badri-536462222/" class="contact-btn">LinkedIn (EN)</a>
+<a href="https://www.linkedin.com/in/skander-badri-536462222/?locale=fr-FR" class="contact-btn">LinkedIn (FR)</a>
+
+My e-mail : badri.skander71@gmail.com
+
 
 ## My mentors
 
