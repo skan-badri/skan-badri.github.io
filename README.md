@@ -90,7 +90,9 @@ Join me on LinkedIn !
 <a href="https://www.linkedin.com/in/skander-badri-536462222/" class="contact-btn">LinkedIn (EN)</a>
 <a href="https://www.linkedin.com/in/skander-badri-536462222/?locale=fr-FR" class="contact-btn">LinkedIn (FR)</a>
 
-My e-mail : badri.skander71@gmail.com
+Well how about my e-mail ?
+
+<a href="mailto:badri.skander71@gmail.com" class="contact-btn">Email Me</a>
 
 
 ## My mentors
