@@ -84,11 +84,13 @@ I find cooking very fun because it stifles my creativity and lets me experiment 
 
 ## CV / Resume
 
-En anglais ...
+In english ...
 
-<a href="/assets/docs/Mr_Skander_Badri_Resume_2026-10-29.pdf" download class="contact-btn">Download Resume</a>
+<a href="/assets/docs/Mr_Skander_Badri_CV.pdf" download class="contact-btn">Download Resume</a>
 
-En francais ...
+In french ...
+
+<a href="/assets/docs/Mr_Skander_Badri_CV_FR.pdf" download class="contact-btn">Download Resume</a>
 
 
 ## Contact
