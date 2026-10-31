@@ -44,13 +44,19 @@ pre, code {
   background-color: $code-bg;
   border-color: #331010;
 }
+.site-header {
+  display: flex;
+  justify-content: space-between; // Pushes text and image to opposite sides
+  align-items: center;
+  gap: 10px;
+}
+
 .profile-pic {
-  float: right;
   width: 150px;
   border-radius: 50%;
   object-fit: cover;
   aspect-ratio: 1/1;
-  margin-left: 500px;
+  flex-shrink: 0; // Prevents the image from getting squished
 }
 .projects-title {
   color: #b5e853;
@@ -90,12 +96,26 @@ code {
   }
 }
 .climat {
-  display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh; /* Full viewport height */
+  display: block;
+  width: 100%;
   
 }
+.climat-div {
+  display: flex; 
+  align-items: flex-start; 
+  gap: 15px;
+}
+.climatwcap {
+  margin: 0; 
+  text-align: center; 
+  flex-shrink: 0; 
+  width: 30%;
+
+}
+
 .lang-btn {
   display: inline-block;
   padding: 10px 20px;
@@ -109,4 +129,9 @@ code {
     background-color: #d4e853; // Change to a different color on hover
     color: rgba(0,0,0,0.9); // Change text color
   }
+}
+.homelabintro {
+  text-indent: 60px;
+  text-align: justify;
+  margin: 40px;
 }

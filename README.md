@@ -10,6 +10,9 @@ forward to acquiring new hard and soft skills, undertaking new challenges, widen
 ## Projects
 <details>
 <summary class = "projects-title">Home lab project</summary>
+<div class = "homelabintro">
+A home lab is a personal sandbox built to explore network administration, system hardening, and cybersecurity concepts through the practical deployment of firewalls, virtual machines, and security information and event management (SIEM) tools.
+</div>
 <figure>
 <img src="assets/images/screenshothomelab1.png" alt="Port scanning Metasploitable 2">
 <figcaption>Figure 1: Port scanning Metasploitable 2</figcaption>
@@ -57,10 +60,20 @@ Pronto :)
 # Sustainability & Civic Engagement 🌵
 
 ## For Mother Nature ... 
-<figure>
-<img src="assets/images/Fresque-du-climat.jpg" alt="Fresque du climat" class = "climat">
-<figcaption>Fresque du climat : Le paradoxe</figcaption>
-</figure>
+
+
+<div class="climat-div">
+  <figure class = "climatwcap">
+    <img src="assets/images/Fresque-du-climat.jpg" alt="Fresque du climat" class="climat" />
+    <figcaption>Climate Fresk : The paradox</figcaption>
+  </figure>
+  
+  <div>
+    I was given the opportunity to widen my understanding of the current climate crisis through working in a team on a climate fresk. <br /> <br />
+    The fresk aims at explaining the multiple causes of disasters all around the world, usually traced back to human activities. <br /> <br />
+    Our fresk is named "Le paradoxe" / "The paradox" because it shows how in an attempt to make peoples' lives easier and more accomodating, we ended up destroying the very world we live in.
+  </div>
+</div>
 
 ## " Cordées de la réussite " project
 
@@ -70,19 +83,19 @@ I am participating in the project "Cordées de la reussite" and my role is to gi
 ## The Trial of King Kong
 
 I attended the play "Le procès de King Kong" displaying 3 situations of sexist and sexual violence (VSS) at the end of which we had to pass judgement and debate on who was the most at fault in said situation.
-# Sport & other activities
+# Sport & other activities 
 
-## Sports
+## Sports 💪
 
 I like to go to the gym to build muscle and discipline. My body lives for sore muscles ! I also started running recently !
 
-## Cooking
+## Cooking 🍳
 
 I find cooking very fun because it stifles my creativity and lets me experiment freely.
 <!-- I really need to add more activities :\\ -->
-# Career Development
+# Career Development 
 
-## CV / Resume
+## CV / Resume 📑
 
 In english ...
 
@@ -93,7 +106,7 @@ In french ...
 <a href="/assets/docs/Mr_Skander_Badri_CV_FR.pdf" download class="contact-btn">Download Resume</a>
 
 
-## Contact
+## Contact 📞
 
 Join me on LinkedIn !
 
@@ -105,7 +118,7 @@ Well how about my e-mail ?
 <a href="mailto:badri.skander71@gmail.com" class="contact-btn">Email Me</a>
 
 
-## My mentors
+## My mentors 
 
 ```
 In progress ...
