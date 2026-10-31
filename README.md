@@ -1,7 +1,7 @@
 
 
 My name is Skander Badri and this is my e-portfolio. I am an engineering student at ENSEEIHT in my first year (Bac+3) and I am looking
-forward to learning new things, widening my horizons and discover the world of Cybersecurity !
+forward to acquiring new hard and soft skills, undertaking new challenges, widening my horizons and discovering the world of Cybersecurity !
 
 
 
@@ -19,12 +19,12 @@ forward to learning new things, widening my horizons and discover the world of C
 
 <!-- * ## *Guessing game* remastered -->
 
-## Achievements
+## Achievements / Awards 🏅
 * ### *7TF* challenge        <!-- Should I put it ? -->
 
 I placed in the top 3 among first-years at ENSEEIHT in the recent CTF challenge organized by the pony7 club. 
 
-# International Mobility
+# International Mobility 🗺️
 
 ## Mobility projects
 
@@ -54,33 +54,42 @@ Hallo ! Ich bin Skander Badri und Ich spreche ein bisschen deutsch.
 ```
 Pronto :)
 ```
-# Sustainability & Civic Engagement
+# Sustainability & Civic Engagement 🌵
 
-## For Mother Nature ...
+## For Mother Nature ... 
 <figure>
 <img src="assets/images/Fresque-du-climat.jpg" alt="Fresque du climat" class = "climat">
 <figcaption>Fresque du climat : Le paradoxe</figcaption>
 </figure>
+
 ## " Cordées de la réussite " project
 
 
 I am participating in the project "Cordées de la reussite" and my role is to give first-years in high school carreer/academic counseling and to give them the confidence boost they need in public speaking !
 
-## Le procès de King Kong
+## The Trial of King Kong
 
-I attended the play "Le procès de King Kong" displaying 3 situations of sexist and sexual violence (VSS) at the end of wich we had to pass judgement and debate on who was the most at fault in said situation.
+I attended the play "Le procès de King Kong" displaying 3 situations of sexist and sexual violence (VSS) at the end of which we had to pass judgement and debate on who was the most at fault in said situation.
 # Sport & other activities
 
 ## Sports
 
-I like to go to the gym to build muscle and discipline. My body lives for sore muscles !
+I like to go to the gym to build muscle and discipline. My body lives for sore muscles ! I also started running recently !
 
+## Cooking
+
+I find cooking very fun because it stifles my creativity and lets me experiment freely.
 <!-- I really need to add more activities :\\ -->
 # Career Development
 
 ## CV / Resume
 
+En anglais ...
+
 <a href="/assets/docs/Mr_Skander_Badri_Resume_2026-10-29.pdf" download class="contact-btn">Download Resume</a>
+
+En francais ...
+
 
 ## Contact
 
