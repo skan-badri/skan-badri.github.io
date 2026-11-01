@@ -120,8 +120,6 @@ Well how about my e-mail ?
 
 ## My mentors 
 
-```
-In progress ...
-```
+* <a href = "mentors/jonathan.md">Jonathan Bonnefoy : Analyste SOC</a>
 
 <!-- I still need my elevator pitch -->
