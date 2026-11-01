@@ -46,10 +46,20 @@ I placed in the top 3 among first-years at ENSEEIHT in the recent CTF challenge 
 
 ## Mobility projects
 
-```
-In progress :)
-```
+### **3 potential destinations :**
 
+* China :
+<p>
+China is an economical superpower in the digital market and since I have been learning chinese for the past 2 months, I figured it wouldn't be a bad idea to study there.
+</p>
+* UK
+<p>
+The UK is home to one of the most prestigious universities in the world : The Imperial College of London.
+</p>
+* Malaysia
+<p>
+I have taken a liking to Malaysia and I can see myself working and settling there in the future so it would be good to visit my future home !
+</p>
 ## Arabic
 <div dir="rtl">
 اللغة العربية لغتي الأم. اسمي بالعربية يكتب كالاتي : اسكندر بادري.
