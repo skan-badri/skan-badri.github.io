@@ -3,7 +3,7 @@
 My name is Skander Badri and this is my e-portfolio. I am an engineering student at ENSEEIHT in my first year (Bac+3) and I am looking
 forward to acquiring new hard and soft skills, undertaking new challenges, widening my horizons and discovering the world of Cybersecurity !
 
-
+---
 
 # Engineering Course
 
@@ -26,6 +26,8 @@ A home lab is a personal sandbox built to explore network administration, system
 * ### *7TF* challenge        <!-- Should I put it ? -->
 
 I placed in the top 3 among first-years at ENSEEIHT in the recent CTF challenge organized by the pony7 club. 
+
+---
 
 # International Mobility 🗺️
 
@@ -57,6 +59,9 @@ Hallo ! Ich bin Skander Badri und Ich spreche ein bisschen deutsch.
 ```
 Pronto :)
 ```
+
+---
+
 # Sustainability & Civic Engagement 🌵
 
 ## For Mother Nature ... 
@@ -83,6 +88,9 @@ I am participating in the project "Cordées de la reussite" and my role is to gi
 ## The Trial of King Kong
 
 I attended the play "Le procès de King Kong" displaying 3 situations of sexist and sexual violence (VSS) at the end of which we had to pass judgement and debate on who was the most at fault in said situation.
+
+---
+
 # Sport & other activities 
 
 ## Sports 💪
@@ -93,6 +101,9 @@ I like to go to the gym to build muscle and discipline. My body lives for sore m
 
 I find cooking very fun because it stifles my creativity and lets me experiment freely.
 <!-- I really need to add more activities :\\ -->
+
+---
+
 # Career Development 
 
 ## CV / Resume 📑
@@ -105,6 +116,7 @@ In french ...
 
 <a href="/assets/docs/Mr_Skander_Badri_CV_FR.pdf" download class="contact-btn">Download Resume</a>
 
+---
 
 ## Contact 📞
 
@@ -117,9 +129,17 @@ Well how about my e-mail ?
 
 <a href="mailto:badri.skander71@gmail.com" class="contact-btn">Email Me</a>
 
+---
 
 ## My mentors 
 
-* <a href = "mentors/jonathan.md">Jonathan Bonnefoy : Analyste SOC</a>
+* <a href = "mentors/jonathan">Jonathan Bonnefoy : Analyste SOC chez Orange Cyberdéfense</a> 
+<br />
+
+* <a href = "mentors/anahid">Anahid Hanimyan : Fondatrice EVOSANCE - ex Ingenieur Nokia | Experte des métiers IT, Data, Cloud et Cybersécurité</a><br />
+
+* <a href = "mentors/richard">Richard Chetory : Manager Opérations de l’intégration su sein de la Division Cybersécurité</a><br />
+
+* <a href = "mentors/mudsor">Mudsor Vissault-Masood : Cybersecurity Project Manager at Plan B</a>
 
 <!-- I still need my elevator pitch -->

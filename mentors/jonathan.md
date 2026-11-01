@@ -5,34 +5,34 @@ title: "My Job Glasses - Mentor Meeting Report"
 
 # Compte-Rendu d'Entretien / Mentor Meeting Report
 
-* **Prénom / Nom du Mentor :** [Nom du professionnel]
-* **Poste / Métier :** [Intitulé exact du poste, ex: Security Operations Center Analyst]
-* **Entreprise / Secteur :** [Nom de l'entreprise ou secteur d'activité]
-* **Date de l'échange :** [YYYY-MM-DD]
-* **Plateforme :** My Job Glasses
+* **Prénom / Nom du Mentor :** Jonathan Bonnefoy
+* **Poste / Métier :** Security Operations Center Analyst
+* **Entreprise / Secteur :** Orange Cyberdéfense
+* **Date de l'échange :** 22/10/2026
+* **Medium :** In person but the meeting was scheduled via LinkedIn
 
 ---
 
-## 1. Détails du Poste
+## 1. Détails du Poste / Job details
 * **Missions principales :** 
-  * *(Décrivez ici les tâches quotidiennes et les responsabilités principales du professionnel)*
+  * Analyze system logs to detect incidents and vulnerabilities
 * **Environnement technique / Outils utilisés :** 
-  * *(Mentionnez les outils, langages ou frameworks évoqués lors de l'échange)*
+  * Not mentioned
 
 ---
 
-## 2. Conclusions de l'Échange
-* **Enseignements personnels :** 
-  * *(Qu'est-ce qui vous a le plus surpris ou éclairé sur la réalité du métier ?)*
-  * *(Comment cet échange valide ou réoriente votre projet professionnel en cybersécurité ?)*
+## 2. Conclusions de l'Échange / Meeting takeaways
+* **Enseignements personnels / Personal teachings :** 
+  * It is not an easy job that requires good stress management and the passion to push through.
+  * I should start early and gradually build my skills in order to have the job I want.
 
 * **Plan d'actions :**
-  * [ ] *(Action concrète 1, ex: Approfondir mes compétences en script Python)*
-  * [ ] *(Action concrète 2, ex: Mettre à jour mon CV ou mon profil LinkedIn)*
+  * [ ] Work on my technical skills by training in online platforms like Root-Me or Try Hack Me.
+  * [ ] Work on languages (especially english) to improve communication.
 
 ---
 
 ## 3. Suivi de la Rencontre
 * **Réseau & Prochaines étapes :** 
-  * *(Message de remerciement envoyé sous 24-48h ? Ajout sur LinkedIn effectué ?)*
-  * *(Prochaines connexions ou pistes à explorer suite à cet échange)*
+  * [x] *Thank you message within 24 hours of our meeting*
+  * [x] *LinkedIn connection*
