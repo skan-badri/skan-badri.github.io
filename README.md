@@ -32,6 +32,15 @@ A home lab is a personal sandbox built to explore network administration, system
 </figure>
 </details>
 
+<details>
+<summary class = "projects-title">TIPE</summary>
+<div class = "homelabintro">
+For my TIPE project on the theme 'cycles and loops', I worked on optimizing road traffic through intersections.
+</div>
+<figure>
+
+</figure>
+</details>
 
 <!-- * ## *Guessing game* remastered -->
 
